@@ -5,8 +5,9 @@
 # TabTune - A Unified Library for Inference and Fine-Tuning Tabular Foundation Models
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6+-red.svg)](https://pytorch.org/)
 [![Documentation](https://img.shields.io/badge/docs-available-green.svg)](https://github.com/Lexsi-Labs/TabTune)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.02802-b31b1b.svg)](https://arxiv.org/abs/2511.02802)
 
 A powerful and flexible Python library designed to simplify the **training and fine-tuning** of modern foundation models on tabular data.
 
@@ -415,7 +416,7 @@ pipeline = TabularPipeline(
 
 ## 📖 Documentation
 
-For detailed documentation, API reference, model configurations, and advanced usage examples, please visit: **[Full Documentation](https://github.com/Lexsi-Labs/TabTune)**
+For detailed documentation, API reference, model configurations, and usage examples, please visit: **[Documentation](https://tabtune.lexsi.ai/)**
 
 ---
 
@@ -455,8 +456,7 @@ TabTune is built upon the excellent work of the following projects and research 
 ## Contact
 
 <p align="center">
-  <img src="assets/lexsi-labs-logo.svg" alt="Lexsi Labs Logo" width="200px"/>
+  <img src="assets/lexsi-labs-logo-white.svg" alt="Lexsi Labs Logo" width="200px"/>
 </p>
 
-For questions and support: **contact@lexsi.ai**  
 Website: **https://lexsi.ai**
