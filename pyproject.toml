@@ -56,6 +56,13 @@ dependencies = [
     "psutil>=5.8.0",
     "torcheval>=0.0.6",
     "faiss-cpu>=1.7.0",
+    # Additional dependencies from requirements.txt
+    "colorlog",
+    "einx",
+    "fairlearn",
+    "gdown",
+    "python-json-logger",
+    "rich",
 ]
 
 [project.optional-dependencies]
